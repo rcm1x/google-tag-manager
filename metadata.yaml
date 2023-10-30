@@ -1,0 +1,5 @@
+homepage: 'https://recommendix.com'
+documentation: 'https://github.com/rcm1x/google-tag-manager/blob/main/README.md'
+versions:
+  - sha: 5f7831b427dae70d80f62ef38621ddc8630310cd
+    changeNotes: Initial release.
