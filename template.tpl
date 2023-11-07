@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "RCMX Tag",
+  "categories": ["MARKETING", "SALES"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
